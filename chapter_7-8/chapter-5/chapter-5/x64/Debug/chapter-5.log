@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\ASUS\Documents\DataStructure\laboratory\chapter_5\chapter-5\chapter-5\kmp.h(8,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\Documents\DataStructure\laboratory\chapter_5\chapter-5\chapter-5\kmp.h(30,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\Documents\DataStructure\laboratory\chapter_5\chapter-5\chapter-5\kmp.h(31,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  chapter-5.vcxproj -> C:\Users\ASUS\Documents\DataStructure\laboratory\chapter_5\chapter-5\x64\Debug\chapter-5.exe

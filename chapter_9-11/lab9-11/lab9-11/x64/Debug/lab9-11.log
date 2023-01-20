@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\ASUS\Documents\DataStructure\laboratory\chapter_9-11\lab9-11\lab9-11\main.cpp(146,17): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\Documents\DataStructure\laboratory\chapter_9-11\lab9-11\lab9-11\main.cpp(339,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  lab9-11.vcxproj -> C:\Users\ASUS\Documents\DataStructure\laboratory\chapter_9-11\lab9-11\x64\Debug\lab9-11.exe
